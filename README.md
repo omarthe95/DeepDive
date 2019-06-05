@@ -70,7 +70,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Omar Adil** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Omar Adil** - *Network Engineer* - [Linkedin](https://www.linkedin.com/in/omar-adil-67218a134/)
 
 
 

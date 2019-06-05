@@ -38,7 +38,7 @@ bash setup.sh
 ```
 nano IPaddress_Switches.txt
 ```
-* You may change the access credentials inside each python script individually, because the default access credentials into network devices is "cisco:Cisco123"
+* You may change the access credentials inside each python script individually, because the default access credentials into network devices is **cisco:Cisco123**
 
 
 
@@ -72,7 +72,7 @@ Add additional notes about how to deploy this on a live system
 
 * **Omar Adil** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
 
 ## License
 

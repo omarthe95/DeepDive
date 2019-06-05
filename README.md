@@ -11,13 +11,13 @@ These instructions will get you a copy of the project up and running on your loc
 * Linux OS (Recommended for Ubuntu 18.04)
 * Python >=3.5 (pre-installed)
 ```
-#python --version
+python --version
 ```
 
      
 * SSH enabled and tested (connectivity)
 ```
-#ssh cisco@192.168.1.10
+ssh cisco@192.168.1.10
 ```
 
      
@@ -25,9 +25,13 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing:
 
 * Download the repository into a directory
+```
+git clone https://github.com/omarthe95/DeepDive.git
+```
+
 * Run setup.sh
 ```
-#bash setup.sh
+bash setup.sh
 ```
 
 * Edit "IPaddress_Switches.txt" file with your own IP address, each device IP per line

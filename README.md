@@ -30,8 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 #bash setup.sh
 ```
 
-* Edit "IPaddress_Switches.txt" file with your own IP address
-    Each device IP per line
+* Edit "IPaddress_Switches.txt" file with your own IP address, each device IP per line
 
 
 

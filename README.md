@@ -34,7 +34,7 @@ git clone https://github.com/omarthe95/DeepDive.git
 bash setup.sh
 ```
 
-* Edit "IPaddress_Switches.txt" file with your own IP address, each device IP per line
+* Edit **IPaddress_Switches.txt** file with your own IP address, each device IP per line
 ```
 nano IPaddress_Switches.txt
 ```

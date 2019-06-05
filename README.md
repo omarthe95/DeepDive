@@ -32,7 +32,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 * Edit "IPaddress_Switches.txt" file with your own IP address, each device IP per line
 
-* You may change the access credentials inside each python script individually, because the default access credentials into network devices is cisco:Cisco123
+* You may change the access credentials inside each python script individually, because the default access credentials into network devices is "cisco:Cisco123"
 
 
 

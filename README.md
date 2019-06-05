@@ -93,6 +93,13 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Kirk Byers  
+Python for Network Engineers  
+https://pynet.twb-tech.com  
+
+----------
+
+
+Sergey Yakovlev
+Netdev
+https://github.com/selfuryon/netdev

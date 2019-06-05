@@ -2,9 +2,12 @@
 Inspired by Netmiko & Netdev to make scripts run much faster
 
 
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+
 
 ### Prerequisites:
 
@@ -47,6 +50,8 @@ nano IPaddress_Switches.txt
 
 Explain how to run the automated tests for this system
 
+
+
 ### Break down into end to end tests
 
 Explain what these tests test and why
@@ -77,6 +82,7 @@ Add additional notes about how to deploy this on a live system
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 
 ## Acknowledgments
 
